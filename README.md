@@ -1,4 +1,4 @@
-# Hey, I'm Ekap 👋
+# Hey, I'm Raihan Anubhawa Ekaputra (Ekap) 👋
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&width=600&lines=Backend+Engineer;Building+things+that+scale;Breaking+things+that+shouldn't;Coffee-powered+problem+solver" alt="Typing SVG" />
