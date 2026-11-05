@@ -1,31 +1,76 @@
 # Hey, I'm Ekap 👋
 
+### Backend Engineer · Coffee Enthusiast · Professional Bug Creator
+
 Building things that scale, breaking things that don't. ☕
 
-I'm a Backend Engineer passionate about building reliable systems, designing scalable architectures, and solving problems that probably shouldn't exist in the first place.
+I build backend systems, design APIs, mess around with distributed architectures, and occasionally wonder why something that worked yesterday suddenly doesn't.
 
-- 🔭 Working on backend systems & integrations
-- 🌱 Exploring distributed systems, system design & software architecture
-- 💻 Java, Go, Node.js & Laravel
-- ☕ Coffee-powered, occasionally bug-powered
+I'm passionate about turning complex problems into simple, reliable solutions. I enjoy digging into system architecture, performance optimization, and making services talk to each other without starting a war.
 
-### Tech Stack
-
-**Languages**
-Java · Go · JavaScript · PHP
-
-**Backend**
-Spring Boot · Node.js · Laravel · REST API · Microservices
-
-**Database & Infrastructure**
-PostgreSQL · MySQL · Redis · RabbitMQ · Docker · Linux
-
-### Currently
-
-Learning, building, breaking, and fixing things.
-
-> "It works on my machine." — Every developer, eventually.
+- 🔭 **Currently building:** Backend systems, integrations & scalable services.
+- 🌱 **Currently exploring:** Distributed systems, system design & software architecture.
+- 💻 **Main weapons:** Java, Go, Node.js & Laravel.
+- 🧠 **Interested in:** High-performance systems, clean architecture & engineering practices.
+- ☕ **Fuel:** Coffee, curiosity, and the occasional production incident.
+- 🐛 **Special skill:** Turning "just a small change" into a debugging adventure.
 
 ---
 
-*Building better systems, one commit at a time.*
+### 🛠️ Tech Stack & Tools
+
+**Languages**
+ 
+Java · Go · JavaScript · PHP
+
+**Backend & Frameworks**
+
+Spring Boot · Node.js · Laravel · REST API · Microservices
+
+**Databases & Messaging**
+
+PostgreSQL · MySQL · Redis · RabbitMQ
+
+**DevOps & Infrastructure**
+
+Docker · Linux · Git · Jenkins
+
+---
+
+### 🧠 What I'm Into
+
+- Designing backend architectures that don't fall apart under pressure.
+- Building scalable and maintainable distributed systems.
+- Making APIs behave like good citizens.
+- Exploring performance, reliability & system integration.
+- Solving problems that probably could've been avoided with better documentation.
+
+---
+
+### ⚡ A Few Things About Me
+
+- I believe good architecture saves more time than clever code.
+- I like simple solutions, even when the problem isn't.
+- I occasionally refactor code just to sleep better at night.
+- "It works on my machine" is not a deployment strategy.
+
+---
+
+### 📊 GitHub Activity
+
+*More commits, fewer excuses. Hopefully.*
+
+---
+
+### 💬 Random Developer Wisdom
+
+> First, make it work.  
+> Then make it right.  
+> Then make it fast.  
+> And finally, explain why it took three days.
+
+---
+
+**Building better systems, one commit at a time.**
+
+*Powered by caffeine, curiosity, and questionable debugging decisions.* ☕
